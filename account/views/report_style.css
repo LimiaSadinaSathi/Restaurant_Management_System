@@ -1,0 +1,16 @@
+
+.report_body{
+    display: flex;
+    padding: 10px;
+}
+
+.tables{
+    margin: 0 auto;
+}
+
+.calculation {
+    margin: 20px;
+    font-weight: bold;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
